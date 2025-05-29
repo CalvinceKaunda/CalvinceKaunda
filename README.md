@@ -1,5 +1,10 @@
-# Calvince Kaunda
-### Data Scientist
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?weight=400&size=28&pause=2000&color=000000&center=false&vCenter=false&width=380&lines=Calvince+Kaunda&repeat=false" alt="Typing Name" />
+</h1>
+
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?weight=400&size=24&pause=4000&color=000000&center=false&vCenter=false&width=380&lines=Data+Scientist+%7C+Developer&repeat=false" alt="Typing Role" />
+</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
 [![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@example.com)
@@ -25,6 +30,3 @@ Check it out 👉 [Oraimo Sales Forecasting](https://oraimo-sales-forecasting-lh
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
