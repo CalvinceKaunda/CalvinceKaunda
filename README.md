@@ -6,8 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?weight=400&size=24&pause=4000&color=000000&center=false&vCenter=false&width=380&lines=Data+Scientist+%7C+Developer&repeat=false" alt="Typing Role" />
 </h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/calvince-kaunda-125957346/))
-[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.kaunda.calvince@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bluelogo=linkedin&logoColor=white(https://www.linkedin.com/in/calvince-kaunda-125957346/))
+[![Email](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:kaunda.calvince@gmail.com)
 
 ---
 
