@@ -12,8 +12,9 @@
 ---
 
 ### 🌱 Currently learning
-- Deep Learning  
-- Artificial Intelligence & Large Language Models
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
 
 ### 👀 Open to:
 - Collaborating on projects  
